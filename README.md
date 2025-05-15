@@ -1,5 +1,5 @@
 # Smart Waste Management System - HARIT App
-Prototype: https://studio.firebase.google.com/studio-42995892
+
 
 HARIT is an Iot-based Smart Waste Management System that optimizes waste collection. Equipped with sensors, smart bins monitor fill levels and schedule pickups efficiently. The app also offers tips on waste segregation and promotes recycling, enhancing urban cleanliness and contributing to a sustainable environment.
 
