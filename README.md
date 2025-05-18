@@ -14,4 +14,4 @@ HARIT is an Iot-based Smart Waste Management System that optimizes waste collect
 
 ---
 
-![Home Page](https://github.com/user-attachments/assets/28dc9ba2-ad52-4c4e-93ff-4dfcbdd9cdbc)
+WORK IN PROGRESS !!!
